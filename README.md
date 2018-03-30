@@ -6,7 +6,7 @@ The **IMDb Movie Search Application** allows users to search movies based on gen
 
 Clone the repository.
 ```bash
-$ git clone https://github.com/xxin666/movie_search.git
+$ git clone https://github.com/xinjoy/movie_search.git
 ```
 
 ## Populate the database
